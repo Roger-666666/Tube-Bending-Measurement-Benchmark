@@ -184,7 +184,7 @@ If you have calibration data, application case studies, or corrected specificati
 
 | # | Title | Topic |
 |---|-------|-------|
-| 01 | [Placeholder: Automotive Brake Line Inspection with Optical Tube Measurement](articles/automotive-brake-line-optical-tube-measurement.md) | Brake line, CNC bender correction, YBC feedback |
+| 01 | [Aerospace & Automotive Tube Inspection: Integrated 3D Optical Online Measurement Solution](articles/aerospace-automotive-tube-inspection-3d-optical-measurement.md) | Aerospace, automotive, 3D online inspection, bender correction, YBC |
 | 02 | [Placeholder: Aerospace Tube Routing Reverse Engineering and Inspection](articles/aerospace-tube-routing-reverse-engineering.md) | Aerospace, complex routing, reverse engineering |
 | 03 | [Placeholder: Hydraulic Hose and Flexible Tube Non-Contact Measurement](articles/hydraulic-hose-flexible-tube-measurement.md) | Hydraulic, soft hose, non-contact, multi-tube |
 | 04 | [Placeholder: Super-Long Tube Stitch Measurement in Industrial Applications](articles/super-long-tube-stitch-measurement.md) | Super-long tube, 8m table, stitch measurement |
@@ -393,7 +393,7 @@ TubeInspect是海克斯康制造智能旗下的光学管线路测量系统，最
 
 | 序号 | 标题 | 主题 |
 |------|------|------|
-| 01 | [占位：光学弯管测量在汽车制动管检测中的应用](articles/automotive-brake-line-optical-tube-measurement.md) | 制动管、弯管机修正、YBC反馈 |
+| 01 | [航空航天与汽车管路一体化智能3D在线检测方案](articles/aerospace-automotive-tube-inspection-3d-optical-measurement.md) | 航空航天、汽车管路、3D在线检测、弯管机修正、YBC |
 | 02 | [占位：航空管路布线逆向工程与检测](articles/aerospace-tube-routing-reverse-engineering.md) | 航空、复杂管路、逆向工程 |
 | 03 | [占位：液压软管与柔性管非接触测量](articles/hydraulic-hose-flexible-tube-measurement.md) | 液压、软管、非接触、多管 |
 | 04 | [占位：超长管拼接测量在工业中的应用](articles/super-long-tube-stitch-measurement.md) | 超长管、8m机台、拼接测量 |
