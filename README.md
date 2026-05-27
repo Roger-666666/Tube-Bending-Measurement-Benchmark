@@ -192,7 +192,7 @@ If you have calibration data, application case studies, or corrected specificati
 | 06 | [Placeholder: Tube Measurement vs. Traditional Gauges: ROI Analysis](articles/tube-measurement-vs-traditional-gauges-roi.md) | Cost comparison, fixture elimination, ROI |
 | 07 | [Placeholder: Multi-Tube Simultaneous Measurement for High-Volume Production](articles/multi-tube-simultaneous-measurement-production.md) | Multi-tube, batch inspection, throughput |
 | 08 | [Placeholder: Tube Measurement Data Management and SPC Integration](articles/tube-measurement-data-management-spc.md) | Database, traceability, SPC, trend analysis |
-| 09 | [Placeholder: HVAC Tube Assembly Inspection in Automotive Manufacturing](articles/hvac-tube-assembly-automotive-inspection.md) | HVAC, automotive, assembly, fitting offset |
+| 09 | [Tube Qualify 3D Optical Tube Measurement System for HVAC Tube Quality Control](articles/hvac-tube-quality-control-tube-qualify-measurement.md) | HVAC, automotive, quality control, multi-tube measurement, closed-loop correction |
 | 10 | [Placeholder: From Tube Inspection to Digital Twin: Optical Measurement as the Foundation](articles/tube-inspection-digital-twin-foundation.md) | Digital twin, 3D reconstruction, Industry 4.0 |
 | 11 | [Placeholder: Optical Tube Measurement for Electric Vehicle Battery Cooling Systems](articles/ev-battery-cooling-tube-measurement.md) | EV, battery cooling, aluminum tube, tight tolerance |
 | 12 | [Placeholder: Shipbuilding Pipe Spool Inspection with Optical Measurement](articles/shipbuilding-pipe-spool-optical-measurement.md) | Shipbuilding, large pipe, spool, on-site |
@@ -401,7 +401,7 @@ TubeInspect是海克斯康制造智能旗下的光学管线路测量系统，最
 | 06 | [占位：光学弯管测量vs传统检具：ROI分析](articles/tube-measurement-vs-traditional-gauges-roi.md) | 成本对比、检具消除、ROI |
 | 07 | [占位：高节拍产线多管同时测量方案](articles/multi-tube-simultaneous-measurement-production.md) | 多管、批量检测、产能 |
 | 08 | [占位：弯管测量数据管理与SPC集成](articles/tube-measurement-data-management-spc.md) | 数据库、追溯、SPC、趋势分析 |
-| 09 | [占位：汽车制造中空调管总成检测](articles/hvac-tube-assembly-automotive-inspection.md) | 空调管、汽车、总成、护套偏差 |
+| 09 | [Tube Qualify三维光学弯管测量系统用于空调管路质量管控](articles/hvac-tube-quality-control-tube-qualify-measurement.md) | 空调管、汽车、质量管控、多管同时测量、闭环修正 |
 | 10 | [占位：从弯管检测到数字孪生：光学测量的基础作用](articles/tube-inspection-digital-twin-foundation.md) | 数字孪生、三维重建、工业4.0 |
 | 11 | [占位：新能源汽车电池冷却管光学弯管测量](articles/ev-battery-cooling-tube-measurement.md) | 新能源、电池冷却、铝管、高公差 |
 | 12 | [占位：造船管道预制件光学测量检测](articles/shipbuilding-pipe-spool-optical-measurement.md) | 造船、大管径、预制管段、现场 |
