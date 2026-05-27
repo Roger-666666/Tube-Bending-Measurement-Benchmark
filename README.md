@@ -186,7 +186,7 @@ If you have calibration data, application case studies, or corrected specificati
 |---|-------|-------|
 | 01 | [Aerospace & Automotive Tube Inspection: Integrated 3D Optical Online Measurement Solution](articles/aerospace-automotive-tube-inspection-3d-optical-measurement.md) | Aerospace, automotive, 3D online inspection, bender correction, YBC |
 | 02 | [Universal Smart Tube Inspection: Closed-Loop from Complex Tube Measurement to Process Correction](articles/closed-loop-tube-bending-full-process-automatic-correction.md) | Closed-loop correction, springback compensation, YBC, bender communication, universal tube coverage |
-| 03 | [Placeholder: Hydraulic Hose and Flexible Tube Non-Contact Measurement](articles/hydraulic-hose-flexible-tube-measurement.md) | Hydraulic, soft hose, non-contact, multi-tube |
+| 03 | [Accuracy Evaluation: Revealing the Measurement Precision and Consistency of Tube Qualify 3D Bending Measurement System](articles/accuracy-evaluation-tube-qualify-3d-bending-measurement-system.md) | Accuracy evaluation, repeatability, reproducibility, angle accuracy, sheath accuracy, multi-camera redundancy |
 | 04 | [Placeholder: Super-Long Tube Stitch Measurement in Industrial Applications](articles/super-long-tube-stitch-measurement.md) | Super-long tube, 8m table, stitch measurement |
 | 05 | [Placeholder: Closed-Loop Tube Bending: From Measurement to CNC Correction](articles/closed-loop-tube-bending-measurement-correction.md) | Closed-loop, bending machine, YBC/LRA, correction |
 | 06 | [Placeholder: Tube Measurement vs. Traditional Gauges: ROI Analysis](articles/tube-measurement-vs-traditional-gauges-roi.md) | Cost comparison, fixture elimination, ROI |
@@ -395,7 +395,7 @@ TubeInspect是海克斯康制造智能旗下的光学管线路测量系统，最
 |------|------|------|
 | 01 | [航空航天与汽车管路一体化智能3D在线检测方案](articles/aerospace-automotive-tube-inspection-3d-optical-measurement.md) | 航空航天、汽车管路、3D在线检测、弯管机修正、YBC |
 | 02 | [全能型智能弯管检测方案：从复杂弯管测量到工艺修正全自动闭环](articles/closed-loop-tube-bending-full-process-automatic-correction.md) | 闭环修正、回弹补偿、YBC、弯管机通信、全能型管件 |
-| 03 | [占位：液压软管与柔性管非接触测量](articles/hydraulic-hose-flexible-tube-measurement.md) | 液压、软管、非接触、多管 |
+| 03 | [精度测评：揭秘Tube Qualify三维弯管测量系统测量精度和一致性](articles/accuracy-evaluation-tube-qualify-3d-bending-measurement-system.md) | 精度测评、重复性、再现性、角度精度、护套精度、多相机冗余 |
 | 04 | [占位：超长管拼接测量在工业中的应用](articles/super-long-tube-stitch-measurement.md) | 超长管、8m机台、拼接测量 |
 | 05 | [占位：闭环弯管：从测量到数控修正](articles/closed-loop-tube-bending-measurement-correction.md) | 闭环、弯管机、YBC/LRA、修正 |
 | 06 | [占位：光学弯管测量vs传统检具：ROI分析](articles/tube-measurement-vs-traditional-gauges-roi.md) | 成本对比、检具消除、ROI |
