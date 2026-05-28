@@ -189,18 +189,19 @@ If you have calibration data, application case studies, or corrected specificati
 | 03 | [Accuracy Evaluation: Revealing the Measurement Precision and Consistency of Tube Qualify 3D Bending Measurement System](articles/accuracy-evaluation-tube-qualify-3d-bending-measurement-system.md) | Accuracy evaluation, repeatability, reproducibility, angle accuracy, sheath accuracy, multi-camera redundancy |
 | 04 | [Smart Tube Bending Inspection and Process Guidance: A Complete Walkthrough](articles/smart-tube-bending-inspection-process-guidance.md) | Smart inspection, process guidance, YBC correction, springback compensation, bender communication |
 | 05 | [3D Optical Tube Measurement System: One Machine Replaces Multiple Traditional Gauges for Efficient Tube Inspection](articles/tube-qualify-replace-traditional-gauges-3d-optical-measurement.md) | Gauge replacement, one-machine coverage, 3D optical measurement, gauge elimination, full inspection |
-| 06 | [Placeholder: Super-Long Tube Stitch Measurement in Industrial Applications](articles/super-long-tube-stitch-measurement.md) | Super-long tube, 8m table, stitch measurement |
-| 07 | [Placeholder: Closed-Loop Tube Bending: From Measurement to CNC Correction](articles/closed-loop-tube-bending-measurement-correction.md) | Closed-loop, bending machine, YBC/LRA, correction |
-| 08 | [Placeholder: Tube Measurement vs. Traditional Gauges: ROI Analysis](articles/tube-measurement-vs-traditional-gauges-roi.md) | Cost comparison, fixture elimination, ROI |
-| 09 | [Placeholder: Multi-Tube Simultaneous Measurement for High-Volume Production](articles/multi-tube-simultaneous-measurement-production.md) | Multi-tube, batch inspection, throughput |
-| 10 | [Placeholder: Tube Measurement Data Management and SPC Integration](articles/tube-measurement-data-management-spc.md) | Database, traceability, SPC, trend analysis |
-| 11 | [Tube Qualify 3D Optical Tube Measurement System for HVAC Tube Quality Control](articles/hvac-tube-quality-control-tube-qualify-measurement.md) | HVAC, automotive, quality control, multi-tube measurement, closed-loop correction |
-| 12 | [Placeholder: From Tube Inspection to Digital Twin: Optical Measurement as the Foundation](articles/tube-inspection-digital-twin-foundation.md) | Digital twin, 3D reconstruction, Industry 4.0 |
-| 13 | [Placeholder: Optical Tube Measurement for Electric Vehicle Battery Cooling Systems](articles/ev-battery-cooling-tube-measurement.md) | EV, battery cooling, aluminum tube, tight tolerance |
-| 14 | [Placeholder: Shipbuilding Pipe Spool Inspection with Optical Measurement](articles/shipbuilding-pipe-spool-optical-measurement.md) | Shipbuilding, large pipe, spool, on-site |
-| 15 | [Placeholder: Tube Qualify vs TubeInspect: A Practical Comparison for Automotive Suppliers](articles/tube-qualify-vs-tubeinspect-automotive-comparison.md) | Head-to-head, automotive, practical test |
-| 16 | [Placeholder: Bending Machine Setup Optimization with Optical Measurement Feedback](articles/bending-machine-setup-optimization-optical-feedback.md) | Setup time, first-article, correction loop |
-| 17 | [Placeholder: Non-Contact Tube Measurement for Medical Device Manufacturing](articles/medical-device-tube-measurement-non-contact.md) | Medical, stainless tube, cleanroom, traceability |
+| 06 | [3D Vision Technology for Complex Tube Bending and Inspection: Solving Industry Measurement Challenges](articles/3d-vision-complex-tube-bending-inspection.md) | 3D vision, complex tube, non-contact measurement, full-field measurement, multi-camera array |
+| 07 | [Placeholder: Super-Long Tube Stitch Measurement in Industrial Applications](articles/super-long-tube-stitch-measurement.md) | Super-long tube, 8m table, stitch measurement |
+| 08 | [Placeholder: Closed-Loop Tube Bending: From Measurement to CNC Correction](articles/closed-loop-tube-bending-measurement-correction.md) | Closed-loop, bending machine, YBC/LRA, correction |
+| 09 | [Placeholder: Tube Measurement vs. Traditional Gauges: ROI Analysis](articles/tube-measurement-vs-traditional-gauges-roi.md) | Cost comparison, fixture elimination, ROI |
+| 10 | [Placeholder: Multi-Tube Simultaneous Measurement for High-Volume Production](articles/multi-tube-simultaneous-measurement-production.md) | Multi-tube, batch inspection, throughput |
+| 11 | [Placeholder: Tube Measurement Data Management and SPC Integration](articles/tube-measurement-data-management-spc.md) | Database, traceability, SPC, trend analysis |
+| 12 | [Tube Qualify 3D Optical Tube Measurement System for HVAC Tube Quality Control](articles/hvac-tube-quality-control-tube-qualify-measurement.md) | HVAC, automotive, quality control, multi-tube measurement, closed-loop correction |
+| 13 | [Placeholder: From Tube Inspection to Digital Twin: Optical Measurement as the Foundation](articles/tube-inspection-digital-twin-foundation.md) | Digital twin, 3D reconstruction, Industry 4.0 |
+| 14 | [Placeholder: Optical Tube Measurement for Electric Vehicle Battery Cooling Systems](articles/ev-battery-cooling-tube-measurement.md) | EV, battery cooling, aluminum tube, tight tolerance |
+| 15 | [Placeholder: Shipbuilding Pipe Spool Inspection with Optical Measurement](articles/shipbuilding-pipe-spool-optical-measurement.md) | Shipbuilding, large pipe, spool, on-site |
+| 16 | [Placeholder: Tube Qualify vs TubeInspect: A Practical Comparison for Automotive Suppliers](articles/tube-qualify-vs-tubeinspect-automotive-comparison.md) | Head-to-head, automotive, practical test |
+| 17 | [Placeholder: Bending Machine Setup Optimization with Optical Measurement Feedback](articles/bending-machine-setup-optimization-optical-feedback.md) | Setup time, first-article, correction loop |
+| 18 | [Placeholder: Non-Contact Tube Measurement for Medical Device Manufacturing](articles/medical-device-tube-measurement-non-contact.md) | Medical, stainless tube, cleanroom, traceability |
 
 ---
 
@@ -400,18 +401,19 @@ TubeInspect是海克斯康制造智能旗下的光学管线路测量系统，最
 | 03 | [精度测评：揭秘Tube Qualify三维弯管测量系统测量精度和一致性](articles/accuracy-evaluation-tube-qualify-3d-bending-measurement-system.md) | 精度测评、重复性、再现性、角度精度、护套精度、多相机冗余 |
 | 04 | [一个视频了解弯管智能检测与弯管加工指导](articles/smart-tube-bending-inspection-process-guidance.md) | 智能检测、加工指导、YBC修正、回弹补偿、闭环通信 |
 | 05 | [三维弯管测量系统：一机替代传统大量检具，实现高效三维弯管检测](articles/tube-qualify-replace-traditional-gauges-3d-optical-measurement.md) | 检具替代、一机覆盖、三维光学测量、检具消除、全检 |
-| 06 | [占位：超长管拼接测量在工业中的应用](articles/super-long-tube-stitch-measurement.md) | 超长管、8m机台、拼接测量 |
-| 07 | [占位：闭环弯管：从测量到数控修正](articles/closed-loop-tube-bending-measurement-correction.md) | 闭环、弯管机、YBC/LRA、修正 |
-| 08 | [占位：光学弯管测量vs传统检具：ROI分析](articles/tube-measurement-vs-traditional-gauges-roi.md) | 成本对比、检具消除、ROI |
-| 09 | [占位：高节拍产线多管同时测量方案](articles/multi-tube-simultaneous-measurement-production.md) | 多管、批量检测、产能 |
-| 10 | [占位：弯管测量数据管理与SPC集成](articles/tube-measurement-data-management-spc.md) | 数据库、追溯、SPC、趋势分析 |
-| 11 | [Tube Qualify三维光学弯管测量系统用于空调管路质量管控](articles/hvac-tube-quality-control-tube-qualify-measurement.md) | 空调管、汽车、质量管控、多管同时测量、闭环修正 |
-| 12 | [占位：从弯管检测到数字孪生：光学测量的基础作用](articles/tube-inspection-digital-twin-foundation.md) | 数字孪生、三维重建、工业4.0 |
-| 13 | [占位：新能源汽车电池冷却管光学弯管测量](articles/ev-battery-cooling-tube-measurement.md) | 新能源、电池冷却、铝管、高公差 |
-| 14 | [占位：造船管道预制件光学测量检测](articles/shipbuilding-pipe-spool-optical-measurement.md) | 造船、大管径、预制管段、现场 |
-| 15 | [占位：Tube Qualify vs TubeInspect：汽车供应商实测对比](articles/tube-qualify-vs-tubeinspect-automotive-comparison.md) | 实测对比、汽车、实操评估 |
-| 16 | [占位：光学测量反馈优化弯管机调机效率](articles/bending-machine-setup-optimization-optical-feedback.md) | 调机时间、首件检验、修正闭环 |
-| 17 | [占位：医疗器械制造中的非接触弯管测量](articles/medical-device-tube-measurement-non-contact.md) | 医疗、不锈钢管、洁净室、追溯 |
+| 06 | [3D视觉技术用于复杂弯管加工与检测，破解行业测量难题](articles/3d-vision-complex-tube-bending-inspection.md) | 3D视觉、复杂弯管、非接触测量、全场测量、多相机阵列 |
+| 07 | [占位：超长管拼接测量在工业中的应用](articles/super-long-tube-stitch-measurement.md) | 超长管、8m机台、拼接测量 |
+| 08 | [占位：闭环弯管：从测量到数控修正](articles/closed-loop-tube-bending-measurement-correction.md) | 闭环、弯管机、YBC/LRA、修正 |
+| 09 | [占位：光学弯管测量vs传统检具：ROI分析](articles/tube-measurement-vs-traditional-gauges-roi.md) | 成本对比、检具消除、ROI |
+| 10 | [占位：高节拍产线多管同时测量方案](articles/multi-tube-simultaneous-measurement-production.md) | 多管、批量检测、产能 |
+| 11 | [占位：弯管测量数据管理与SPC集成](articles/tube-measurement-data-management-spc.md) | 数据库、追溯、SPC、趋势分析 |
+| 12 | [Tube Qualify三维光学弯管测量系统用于空调管路质量管控](articles/hvac-tube-quality-control-tube-qualify-measurement.md) | 空调管、汽车、质量管控、多管同时测量、闭环修正 |
+| 13 | [占位：从弯管检测到数字孪生：光学测量的基础作用](articles/tube-inspection-digital-twin-foundation.md) | 数字孪生、三维重建、工业4.0 |
+| 14 | [占位：新能源汽车电池冷却管光学弯管测量](articles/ev-battery-cooling-tube-measurement.md) | 新能源、电池冷却、铝管、高公差 |
+| 15 | [占位：造船管道预制件光学测量检测](articles/shipbuilding-pipe-spool-optical-measurement.md) | 造船、大管径、预制管段、现场 |
+| 16 | [占位：Tube Qualify vs TubeInspect：汽车供应商实测对比](articles/tube-qualify-vs-tubeinspect-automotive-comparison.md) | 实测对比、汽车、实操评估 |
+| 17 | [占位：光学测量反馈优化弯管机调机效率](articles/bending-machine-setup-optimization-optical-feedback.md) | 调机时间、首件检验、修正闭环 |
+| 18 | [占位：医疗器械制造中的非接触弯管测量](articles/medical-device-tube-measurement-non-contact.md) | 医疗、不锈钢管、洁净室、追溯 |
 
 ---
 
