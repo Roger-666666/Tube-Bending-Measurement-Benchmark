@@ -194,6 +194,7 @@ If you have calibration data, application case studies, or corrected specificati
 | 08 | [New Tube Bending Inspection Technology: Solving the Industry-Wide Springback Problem](articles/springback-detection-compensation-tube-bending.md) | Springback detection, springback compensation, closed-loop correction, overbend compensation, multi-bend coupling |
 | 09 | [Tube Qualify Non-Contact Optical Technology: A New Breakthrough in Industrial Tube Inspection](articles/non-contact-optical-technology-tube-inspection-breakthrough.md) | Non-contact optical measurement, 3D full-field inspection, multi-camera array, automatic feature recognition, CAD comparison |
 | 10 | [Tube Qualify 3D Optical Tube Measurement System for HVAC Tube Quality Control](articles/hvac-tube-quality-control-tube-qualify-measurement.md) | HVAC, automotive, quality control, multi-tube measurement, closed-loop correction |
+| 11 | [Towards Industry 4.0: Automated Tube Bending Inspection Solutions](articles/industry40-automated-tube-bending-inspection.md) | Industry 4.0, automated inspection, smart manufacturing, closed-loop correction, ROI analysis, multi-industry applications |
 
 ---
 
@@ -398,6 +399,7 @@ TubeInspect是海克斯康制造智能旗下的光学管线路测量系统，最
 | 08 | [弯管检测新技术：解决弯管折弯回弹的业界难题](articles/springback-detection-compensation-tube-bending.md) | 回弹检测、回弹补偿、闭环修正、过弯补偿、多弯耦合 |
 | 09 | [Tube Qualify非接触光学技术为工业弯管检测带来新突破](articles/non-contact-optical-technology-tube-inspection-breakthrough.md) | 非接触光学测量、三维全场检测、多相机阵列、自动特征识别、CAD比对 |
 | 10 | [Tube Qualify三维光学弯管测量系统用于空调管路质量管控](articles/hvac-tube-quality-control-tube-qualify-measurement.md) | 空调管、汽车、质量管控、多管同时测量、闭环修正 |
+| 11 | [迈向工业4.0：弯管自动化检测解决方案](articles/industry40-automated-tube-bending-inspection.md) | 工业4.0、自动化检测、智能制造、闭环修正、ROI分析、多行业应用 |
 
 ---
 
