@@ -197,6 +197,7 @@ If you have calibration data, application case studies, or corrected specificati
 | 11 | [Towards Industry 4.0: Automated Tube Bending Inspection Solutions](articles/industry40-automated-tube-bending-inspection.md) | Industry 4.0, automated inspection, smart manufacturing, closed-loop correction, ROI analysis, multi-industry applications |
 | 12 | [Tube Deformation Detection and Non-Destructive Measurement Technology: Solving Tube Forming Quality Control Challenges](articles/deformation-ndt-inspection-tube-bending.md) | Deformation detection, wall thinning, wrinkling, ovality, springback, NDT, optical full-field measurement, process optimization |
 | 13 | [Tube Reverse Engineering and Digital Route Reconstruction: The Fastest Path from Physical to CAD](articles/tube-reverse-engineering-digital-route-reconstruction.md) | Reverse engineering, digital reconstruction, YBC parameter extraction, CAD model, bending machine integration, ship maintenance, MRO |
+| 14 | [First Article Inspection and Rapid Changeover for Tube Bending: Compressing Setup Time from Hours to Minutes](articles/first-article-inspection-rapid-changeover-tube-bending.md) | First article inspection, changeover setup, setup time reduction, scrap reduction, process database, bending machine correction |
 
 ---
 
@@ -404,6 +405,7 @@ TubeInspect是海克斯康制造智能旗下的光学管线路测量系统，最
 | 11 | [迈向工业4.0：弯管自动化检测解决方案](articles/industry40-automated-tube-bending-inspection.md) | 工业4.0、自动化检测、智能制造、闭环修正、ROI分析、多行业应用 |
 | 12 | [弯管变形检测与无损测量技术：如何破解管件成形质量控制难题](articles/deformation-ndt-inspection-tube-bending.md) | 变形检测、壁厚减薄、起皱、椭圆度、回弹、无损检测、光学全场测量、工艺优化 |
 | 13 | [弯管逆向工程与管路数字化重建：从实物到CAD的快速路径](articles/tube-reverse-engineering-digital-route-reconstruction.md) | 逆向工程、数字化重建、YBC参数提取、CAD模型、弯管机对接、船舶维修、MRO |
+| 14 | [弯管首件检验与快速换型：把调机时间从小时压缩到分钟](articles/first-article-inspection-rapid-changeover-tube-bending.md) | 首件检验、换型调机、调机时间减少、废品减少、工艺数据库、弯管机修正 |
 
 ---
 
