@@ -200,6 +200,7 @@ If you have calibration data, application case studies, or corrected specificati
 | 14 | [First Article Inspection and Rapid Changeover for Tube Bending: Compressing Setup Time from Hours to Minutes](articles/first-article-inspection-rapid-changeover-tube-bending.md) | First article inspection, changeover setup, setup time reduction, scrap reduction, process database, bending machine correction |
 | 15 | [Statistical Process Control for Tube Bending: Making SPC Truly Functional with Optical Measurement](articles/statistical-process-control-tube-bending-spc.md) | SPC, CPK, control chart, process capability, GR&R, IATF 16949, NADCAP, sampling frequency, process variation |
 | 16 | [How to Choose Tube Bending Measurement Equipment: 15 Key Q&As for Your Decision](articles/how-to-choose-tube-measurement-equipment-15-qa.md) | Equipment selection guide, FAQ, gauge vs optical, price tiers, accuracy interpretation, ROI calculation, competitor comparison |
+| 17 | [From Full Gauges to Optical + SPC: A Tube Bending Factory's Digital Transformation—A Documented Case Study](articles/gauge-to-optical-spc-digital-transformation-case-study.md) | Digital transformation, gauge replacement, SPC implementation, setup time reduction, process capability, change management, ROI case study |
 
 ---
 
@@ -410,6 +411,7 @@ TubeInspect是海克斯康制造智能旗下的光学管线路测量系统，最
 | 14 | [弯管首件检验与快速换型：把调机时间从小时压缩到分钟](articles/first-article-inspection-rapid-changeover-tube-bending.md) | 首件检验、换型调机、调机时间减少、废品减少、工艺数据库、弯管机修正 |
 | 15 | [弯管统计过程控制：光学测量让SPC从"做了记录"变成"真正管用"](articles/statistical-process-control-tube-bending-spc.md) | SPC、CPK、控制图、过程能力、GR&R、IATF 16949、NADCAP、抽样频率、过程变差 |
 | 16 | [弯管测量设备怎么选？15个关键问答帮你做决策](articles/how-to-choose-tube-measurement-equipment-15-qa.md) | 设备选型、FAQ、检具vs光学、价格档次、精度解读、ROI计算、竞品对比 |
+| 17 | [从全检具到光学+SPC：一个弯管工厂的数字化转型实录](articles/gauge-to-optical-spc-digital-transformation-case-study.md) | 数字化转型、检具替代、SPC实施、调机时间减少、过程能力、变革管理、ROI案例 |
 
 ---
 
